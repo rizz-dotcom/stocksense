@@ -1,0 +1,4 @@
+supplier_code,supplier_name,contact_name,phone,email,sku,unit_price,min_order_qty,available_qty,lead_time_days,quoted_at
+DEMO-SUP-A,Fictional Fresh Foods (demo),Demo Contact A,0300-0000001,orders@fictional-fresh.example,DBH-BUN,12.00,50,1000,1,2026-10-15
+DEMO-SUP-A,Fictional Fresh Foods (demo),Demo Contact A,0300-0000001,orders@fictional-fresh.example,DBH-PATTY,38.00,50,400,1,2026-10-15
+DEMO-SUP-B,Fictional QuickServe Wholesale (demo),Demo Contact B,0300-0000002,sales@fictional-quickserve.example,DBH-SAUCE,2.50,200,5000,2,2026-10-15

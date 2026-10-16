@@ -1,0 +1,11 @@
+[project]
+name = "stocksense"
+version = "1.0.0"
+description = "STOCKSENSE - AI-assisted inventory, procurement and risk guardian (hackathon MVP)"
+requires-python = ">=3.11"
+readme = "README.md"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["ignore::DeprecationWarning"]

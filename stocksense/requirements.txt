@@ -1,0 +1,9 @@
+# Tested with Python 3.12 (3.11+ supported). Versions are minimums known to work together.
+streamlit>=1.50,<2
+SQLAlchemy>=2.0.30,<3
+pydantic>=2.7,<3
+google-genai>=2.0  # 2.x verified; supports the new "AQ." auth keys via x-goog-api-key
+pandas>=2.2
+plotly>=5.22
+python-dotenv>=1.0
+pytest>=8.0

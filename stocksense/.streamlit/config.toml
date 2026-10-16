@@ -1,0 +1,20 @@
+[server]
+# Local use only by default. Change deliberately (and add HTTPS + access control) to expose it.
+address = "localhost"
+port = 8501
+headless = true
+maxUploadSize = 5
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = false
+toolbarMode = "minimal"
+
+[theme]
+primaryColor = "#2E5E4E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EEF2F0"
+textColor = "#1C2421"
+font = "sans serif"

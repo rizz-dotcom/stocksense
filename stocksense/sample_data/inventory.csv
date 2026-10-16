@@ -1,0 +1,4 @@
+sku,name,category,unit,stock_qty,safety_stock,reorder_threshold,expiry_date
+DBH-BUN,Burger buns,Bakery,pcs,60,30,80,2026-12-31
+DBH-PATTY,Chicken patties,Frozen,pcs,35,20,50,2027-01-31
+DBH-SAUCE,Sauce packets,Condiments,pcs,400,100,250,
